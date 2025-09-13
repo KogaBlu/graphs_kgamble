@@ -8,14 +8,6 @@ Tiny graphs library packaged for class. Includes Dijkstra's shortest path.
 pip install git+https://github.com/KogaBlu/graphs_kogablu.git
 ```
 
-## Run the example driver
-
-```bash
-python -m graphs_kgamble_demo  # coming soon
-```
-
-Or use the provided `test.py`:
-
 ```bash
 python test.py sample_graph.txt
 ```
